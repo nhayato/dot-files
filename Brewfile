@@ -24,11 +24,13 @@ cask java
 cask karabiner
 cask kindle
 cask kindlegen
+cask ldoce5-viewer
 cask mactex
 cask mailbox
 cask mendeley-desktop
 cask microsoft-office
 cask mplayerx
+cask send-to-kindle
 cask skype
 cask slack
 cask slate
@@ -53,6 +55,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew android-sdk
 brew autoconf
 brew automake
 brew boot2docker
@@ -106,6 +109,7 @@ brew trash
 brew tree
 brew wget
 brew xz
+brew youtube-dl
 brew z
 brew zlib
 brew zsh
